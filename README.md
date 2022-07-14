@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @easyitsolution4u
-- 👀 I’m interested in .NET, JAVA, Python, Frontend, Backend, Beautiful code
+- 👀 I’m interested in C#.NET, .NetCore, WebApi, Microservices, JAVA, Python, Frontend, Backend, Beautiful code
 - 🌱 I’m currently learning WebAssembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saroj_333@yahoo.com
